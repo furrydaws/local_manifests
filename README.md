@@ -10,4 +10,4 @@ wget -P .repo/local_manifests/ https://raw.githubusercontent.com/Klajnor/local_m
 
 # CypherOS
 rm -rf .repo/local_manifests/*
-wget -P .repo/local_manifests/ https://raw.githubusercontent.com/furrydaws/local_manifests/master/
+wget -P .repo/local_manifests/ https://raw.githubusercontent.com/furrydaws/local_manifests/master/local_aoscp_X00TD.xml
